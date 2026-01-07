@@ -1,0 +1,20 @@
+# Reports / submissions
+*.zip
+
+# Data & model artifacts
+data/
+datasets/
+checkpoints/
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+wandb/
+
+# OS
+.DS_Store
